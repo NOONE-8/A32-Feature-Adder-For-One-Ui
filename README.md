@@ -1,4 +1,4 @@
-# 🚀 S26 Feature Adder for Samsung A325F
+# 🚀 S26 Feature Project for Samsung A325F
 
 [![Version](https://img.shields.io/badge/Version-V1.0-blue)](https://github.com/NOONE-8/A32-Feature-Adder-For-One-Ui/releases)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
@@ -11,11 +11,12 @@ A comprehensive Magisk module designed to bring **S26 AI features** and critical
 ## ✨ Features
 
 ### 📸 Camera & Gallery
-- **S26 AI Port:** Enjoy premium AI features ported from the latest series.
-- **Text Reader:** Fixed and fully working in the Gallery app.
-- **Video Mode:** Added **Auto Frame** support for smoother tracking.
-- **Pro Mode**: Added Real-time Histogram in Pro Mode
-- **Pro Video Mode**:Added Audio Level Meter
+| Feature | Description | Status |
+| :--- | :--- | :--- |
+| **S26 AI Port** | Premium AI features from S26 | ✅ Working |
+| **Text Reader** | In-gallery text extraction | ✅ Fixed |
+| **Auto Frame** | Smooth tracking in Video Mode | ✅ Added |
+| **Histogram** | Real-time light monitoring | ✅ Added |
 
 ### 🛠 System & Stability
 - **App Fixes:** Resolved crashing issues in popular apps like **Reddit** and **Pinterest**.
@@ -50,7 +51,21 @@ This module is tested on Lumirom 8.6.1. Use it at your own risk. Always take a f
 
 ---
 
-## 🚩Bugs
--**Recents is black  because of opengl**
+## 🚩 Known Bugs
+> [!IMPORTANT]
+> - **Recents Screen:** Turns black when OpenGL is enabled.
+> - **Gallery:** Audio Eraser is currently not functioning within the gallery app.
 
--**Audio eraser is not working in gallery** 
+---
+
+## 🖼 Screenshots Gallery
+<details>
+<summary>Click to view all 10 screenshots</summary>
+
+<p align="center">
+  <img src="screenshots/1.png" width="250" title="Histogram">
+  <img src="screenshots/2.png" width="250" title="Audio Meter">
+  <img src="screenshots/3.png" width="250" title="AI Features">
+  </p>
+
+</details>
