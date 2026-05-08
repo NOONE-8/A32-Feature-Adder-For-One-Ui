@@ -51,5 +51,5 @@ This module is tested on Lumirom 8.6.0. Use it at your own risk. Always take a f
 ---
 
 ## Bugs
--Recents is black  because of opengl
--Audio eraser is not working in gallery 
+-**Recents is black  because of opengl**
+-**Audio eraser is not working in gallery** 
