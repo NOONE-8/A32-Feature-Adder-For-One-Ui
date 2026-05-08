@@ -1,5 +1,3 @@
-# A32-Feature-Adder-For-One-Ui
-"A comprehensive Magisk module designed for Samsung A32 to unlock premium One UI features, fix common camera bugs, and optimize hardware performance."
 # 🚀 S26 Feature Adder for Samsung A325F
 
 ![Version](https://img.shields.io/badge/Version-V1.0-blue)
