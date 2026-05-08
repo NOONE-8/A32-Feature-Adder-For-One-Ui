@@ -1,6 +1,6 @@
 # 🚀 S26 Feature Adder for Samsung A325F
 
-![Version](https://github.com/NOONE-8/A32-Feature-Adder-For-One-Ui/releases)
+![Version]((https://img.shields.io/badge/Version-V1.0-blue)]https://github.com/NOONE-8/A32-Feature-Adder-For-One-Ui/releases)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Requirement](https://img.shields.io/badge/Requirement-Magisk-red)
 
