@@ -36,7 +36,7 @@ A comprehensive Magisk module designed to bring **S26 AI features** and critical
   <img src="photo_6048720593672146309_y.jpg" width="200" />
   <img src="photo_6048720593672146310_y.jpg" width="200" />
   <img src="photo_6048720593672146311_y.jpg" width="200" />
-  <img src="photo_6048720593672146312_y (1).jpg" width="200" />
+  <img src="photo_6048720593672146312_y.jpg" width="200" />
 </p>
 
 ---
