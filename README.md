@@ -29,10 +29,10 @@ A comprehensive Magisk module designed to bring **S26 AI features** and critical
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="photo_6048720593672146303_y.jpg" width="200"> | <img src="photo_6048720593672146304_y.jpg" width="200"> | <img src="photo_6048720593672146305_y.jpg" width="200"> |
-| <img src="photo_6048720593672146306_y.jpg" width="200"> | <img src="photo_6048720593672146307_y.jpg" width="200"> | <img src="photo_6048720593672146308_y.jpg" width="200"> |
-| <img src="photo_6048720593672146309_y.jpg" width="200"> | <img src="photo_6048720593672146310_y.jpg" width="200"> | <img src="photo_6048720593672146311_y.jpg" width="200"> |
-| <img src="photo_6048720593672146312_y%20(1).jpg" width="200"> | | |
+| <img src="screenshots/photo_6048720593672146303_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146304_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146305_y.jpg" width="200"> |
+| <img src="screenshots/photo_6048720593672146306_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146307_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146308_y.jpg" width="200"> |
+| <img src="screenshots/photo_6048720593672146309_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146310_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146311_y.jpg" width="200"> |
+| <img src="screenshots/photo_6048720593672146312_y%20(1).jpg" width="200"> | | |
 
 ---
 
