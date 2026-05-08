@@ -25,6 +25,22 @@ A comprehensive Magisk module designed to bring **S26 AI features** and critical
   
 ---
 
+## 🖼 Screenshots
+<p align="center">
+  <img src="photo_6048720593672146303_y.jpg" width="200" />
+  <img src="photo_6048720593672146304_y.jpg" width="200" />
+  <img src="photo_6048720593672146305_y.jpg" width="200" />
+  <img src="photo_6048720593672146306_y.jpg" width="200" />
+  <img src="photo_6048720593672146307_y.jpg" width="200" />
+  <img src="photo_6048720593672146308_y.jpg" width="200" />
+  <img src="photo_6048720593672146309_y.jpg" width="200" />
+  <img src="photo_6048720593672146310_y.jpg" width="200" />
+  <img src="photo_6048720593672146311_y.jpg" width="200" />
+  <img src="photo_6048720593672146312_y (1).jpg" width="200" />
+</p>
+
+---
+
 ## 📱 Compatibility
 - **Device:** Samsung Galaxy A32 (A325F)
 - **Tested ROM:** Lumirom 8.6.1 
@@ -58,14 +74,4 @@ This module is tested on Lumirom 8.6.1. Use it at your own risk. Always take a f
 
 ---
 
-## 🖼 Screenshots Gallery
-<details>
-<summary>Click to view all 10 screenshots</summary>
 
-<p align="center">
-  <img src="screenshots/1.png" width="250" title="Histogram">
-  <img src="screenshots/2.png" width="250" title="Audio Meter">
-  <img src="screenshots/3.png" width="250" title="AI Features">
-  </p>
-
-</details>
