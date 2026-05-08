@@ -14,17 +14,19 @@ A comprehensive Magisk module designed to bring **S26 AI features** and critical
 - **S26 AI Port:** Enjoy premium AI features ported from the latest series.
 - **Text Reader:** Fixed and fully working in the Gallery app.
 - **Video Mode:** Added **Auto Frame** support for smoother tracking.
+- **Pro Mode**:** Added Real-time Histogram in Pro Mode
+- **Pro Video Mode**:** Added Audio Level Meter
 
 ### 🛠 System & Stability
 - **App Fixes:** Resolved crashing issues in popular apps like **Reddit** and **Pinterest**.
 - **Performance:** Disabled Vulkan for more stable performance across all applications.
-- **UI Enhancements:** Added **Now Brief** from S26 Ultra.
-
+- **UI Enhancements:** Added **Now Brief** and **Audio Eraser** from S26 Ultra
+  
 ---
 
 ## 📱 Compatibility
 - **Device:** Samsung Galaxy A32 (A325F)
-- **Tested ROM:** Lumirom 8.6.0 
+- **Tested ROM:** Lumirom 8.6.1 
 - **Requirement:** Magisk 24.0+ installed
 
 ---
@@ -39,7 +41,7 @@ A comprehensive Magisk module designed to bring **S26 AI features** and critical
 ---
 
 ## ⚠️ Warning
-This module is tested on Lumirom 8.6.0. Use it at your own risk. Always take a full backup before installing system-level modifications.
+This module is tested on Lumirom 8.6.1. Use it at your own risk. Always take a full backup before installing system-level modifications.
 
 ---
 
@@ -48,6 +50,6 @@ This module is tested on Lumirom 8.6.0. Use it at your own risk. Always take a f
 
 ---
 
-## Bugs
+## 🚩Bugs
 -**Recents is black  because of opengl**
 -**Audio eraser is not working in gallery** 
