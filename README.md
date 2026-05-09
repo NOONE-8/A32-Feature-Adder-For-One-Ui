@@ -64,7 +64,7 @@ This module is tested on Lumirom 8.6.1. Use it at your own risk. Always take a f
 
 ## 🚩 Known Bugs
 > [!IMPORTANT]
-> - **Recents Screen:** Turns black when OpenGL is enabled.
+> - **Recents Screen:** Recents menu might appear black due to OpenGL limitations on A32 hardware. Working on a fix!
 > - **Gallery:** Audio Eraser is currently not functioning within the gallery app.
 
 ---
