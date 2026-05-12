@@ -39,7 +39,7 @@ A comprehensive Magisk module designed to bring **S26 AI features** and critical
 ## 📱 Compatibility
 - **Device:** Samsung Galaxy A32 (A325F)
 - **Tested ROM:** Lumirom 8.6.1 
-- **Requirement:** Magisk 24.0+ installed
+- **Requirement:** Magisk 30.0+ installed
 
 ---
 
@@ -64,7 +64,7 @@ This module is tested on Lumirom 8.6.1. Use it at your own risk. Always take a f
 
 ## 🚩 Known Bugs
 > [!IMPORTANT]
-> - **Recents Screen:** Recents menu might appear black due to OpenGL limitations on A32 hardware. Working on a fix!
+> - **Recents Screen:** Recents menu might appear black due to OpenGL limitations on A32 hardware. 
 > - **Gallery:** Audio Eraser is currently not functioning within the gallery app.
 
 ---
